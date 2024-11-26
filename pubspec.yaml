@@ -10,6 +10,8 @@ dependencies:
   flutter:
     sdk: flutter
   camera: ^0.11.0+2
+  path_provider: ^2.1.5
+  image: ^4.3.0
 
 dev_dependencies:
   flutter_test:
